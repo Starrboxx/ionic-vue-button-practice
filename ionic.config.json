@@ -1,0 +1,7 @@
+{
+  "name": "reactiveLike",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
